@@ -1,0 +1,33 @@
+
+.top{
+    display: flex;
+}
+
+.barChart {
+    max-height: 230px;
+}
+
+.table_box {
+    max-height: 67vh;
+}
+.sizeKeep {
+    min-height: 460px;
+}
+
+p {
+    border-radius: 25px;
+    color: white;
+    padding: 10px;
+}
+
+.miss {
+    background-color: crimson;
+}
+
+.warn {
+    background-color: goldenrod;
+}
+
+.dmg {
+    background-color: limegreen;
+}
